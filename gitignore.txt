@@ -1,0 +1,4 @@
+.ven/
+__pycachee--/
+.ipypnb_checkpoints/
+.DS_store
